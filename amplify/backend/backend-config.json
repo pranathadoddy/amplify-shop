@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifyshop552281d8": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
